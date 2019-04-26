@@ -1,0 +1,17 @@
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe.config
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojAssemblyReference.cache
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.cache
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.CopyComplete
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\tysovsky\Documents\Kinect Samples\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb

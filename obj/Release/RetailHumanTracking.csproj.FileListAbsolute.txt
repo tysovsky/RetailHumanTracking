@@ -1,0 +1,17 @@
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\bin\AnyCPU\Release\CoordinateMappingBasics-WPF.exe.config
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\bin\AnyCPU\Release\CoordinateMappingBasics-WPF.exe
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\bin\AnyCPU\Release\CoordinateMappingBasics-WPF.pdb
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\bin\AnyCPU\Release\Microsoft.Kinect.dll
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\bin\AnyCPU\Release\Microsoft.Kinect.xml
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\RetailHumanTracking.csprojAssemblyReference.cache
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\MainWindow.baml
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\MainWindow.g.cs
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\App.g.cs
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\CoordinateMappingBasics-WPF.g.resources
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\RetailHumanTracking.csproj.GenerateResource.cache
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\RetailHumanTracking.csproj.CoreCompileInputs.cache
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\RetailHumanTracking.csproj.CopyComplete
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\CoordinateMappingBasics-WPF.exe
+C:\Users\tysovsky\Desktop\DnD\RetailHumanTracking\obj\Release\CoordinateMappingBasics-WPF.pdb
